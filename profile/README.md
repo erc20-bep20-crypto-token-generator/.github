@@ -1,3 +1,5 @@
+# Most Advanced ERC20 and BEP20 token generator 
+
 With Dcryptotools, users can create a token with custom specifications such as the name, symbol, total supply, and decimals. The platform also provides options for setting the token's transferability, enabling or disabling its burn feature, and setting its minting capability.
 
 One of the benefits of using Dcryptotools is that it requires no coding knowledge. The user-friendly interface allows users to create their tokens without having to write any code. This makes the process of token creation accessible to anyone, regardless of their technical expertise.
